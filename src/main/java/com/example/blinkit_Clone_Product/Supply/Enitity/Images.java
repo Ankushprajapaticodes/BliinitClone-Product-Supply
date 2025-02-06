@@ -2,9 +2,7 @@ package com.example.blinkit_Clone_Product.Supply.Enitity;
 
 import jakarta.persistence.Id;
 
-import java.util.List;
-
-public class Image {
+public class Images {
     @Id
     private Long id;
 
